@@ -7,7 +7,7 @@ Web Development & Frontend Engineering
 Welcome to my GitHub profile! I'm a passionate and driven Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently in my third year of exploring the fascinating world of technology and innovation
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My portfolio]([https://a-motthet.github.io/Single-Page-CV/](https://a-motthet.github.io/portfolio-web/))
+* 🖥️  See my portfolio at [My portfolio](https://a-motthet.github.io/portfolio-web/)
 * ✉️  You can contact me at [atsadawut.mot@gmail.com](mailto:atsadawut.mot@gmail.com)
 
 ### Skills
